@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ameetesh-unicard/static/css/main.c1ddbb28.css",
+    "main.js": "/ameetesh-unicard/static/js/main.dc529f1c.js",
+    "static/js/787.dbaa6c9a.chunk.js": "/ameetesh-unicard/static/js/787.dbaa6c9a.chunk.js",
+    "static/media/waves.mp4": "/ameetesh-unicard/static/media/waves.9cfeda99a5387324d168.mp4",
+    "static/media/credit_card.png": "/ameetesh-unicard/static/media/credit_card.003d0673f38ec15432b2.png",
+    "static/media/logo.svg": "/ameetesh-unicard/static/media/logo.3a04e1a3a0970af49371fca226f9f8e1.svg",
+    "index.html": "/ameetesh-unicard/index.html",
+    "static/media/navToggle.svg": "/ameetesh-unicard/static/media/navToggle.fa7c8062c3c76414ca2edba756fbfbbb.svg",
+    "static/media/plus.svg": "/ameetesh-unicard/static/media/plus.e8309d81fb174ae2c0df662bc9adfcde.svg",
+    "main.c1ddbb28.css.map": "/ameetesh-unicard/static/css/main.c1ddbb28.css.map",
+    "main.dc529f1c.js.map": "/ameetesh-unicard/static/js/main.dc529f1c.js.map",
+    "787.dbaa6c9a.chunk.js.map": "/ameetesh-unicard/static/js/787.dbaa6c9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ddbb28.css",
+    "static/js/main.dc529f1c.js"
+  ]
+}
